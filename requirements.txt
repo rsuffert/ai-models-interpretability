@@ -2,3 +2,5 @@ kagglehub[pandas-datasets]
 scikit-learn
 pandas
 ipykernel
+seaborn
+matplotlib
