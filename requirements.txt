@@ -4,3 +4,5 @@ pandas
 ipykernel
 seaborn
 matplotlib
+shap
+lime
